@@ -9,5 +9,5 @@ class ChattyStudent < Student
     super
     10.times(super)
   end
-    
+
 end
